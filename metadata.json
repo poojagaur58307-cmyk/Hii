@@ -1,0 +1,5 @@
+{
+  "name": "Zen News",
+  "description": "A minimalist, automated news app providing real-time briefings on current events, including world news and specific topics like Iran and USA.",
+  "requestFramePermissions": []
+}
